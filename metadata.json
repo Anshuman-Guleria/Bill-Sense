@@ -1,0 +1,6 @@
+{
+  "name": "BillSense",
+  "description": "Understand and simplify any confusing bill, detect hidden charges, and break down financial fees in plain English with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
