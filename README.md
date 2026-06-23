@@ -3,8 +3,6 @@
 ## 📌 Overview
 BillSense is an AI-powered multi-agent system that analyzes bills, detects anomalies, generates financial insights, and automatically creates dispute letters when suspicious charges are found. It demonstrates a real-world application of agentic AI systems built for automation, reasoning, and decision support.
 
-This project is submitted as part of the **Kaggle 5-Day AI Agents: Intensive Vibe Coding Capstone Project (Google)**.
-
 ---
 
 ## 🚨 Problem Statement
